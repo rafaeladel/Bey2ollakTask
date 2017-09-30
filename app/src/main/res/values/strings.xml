@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Bey2ollakTask</string>
+    <string name="search">Search</string>
+    <string name="saved">Saved</string>
+    <string name="action_settings">menu settings</string>
+    <string name="search_for_places">Search for places</string>
+    <string name="internet_error">No Internet connection.</string>
+    <string name="something_wrong">Something went wrong.</string>
+</resources>

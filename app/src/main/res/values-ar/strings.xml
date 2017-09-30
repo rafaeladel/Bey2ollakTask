@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bey2ollakTask</string>
+    <string name="search">ابحث</string>
+    <string name="saved">محفوظ مسبقا</string>
+    <string name="action_settings">الخصائص</string>
+    <string name="search_for_places">ابحث عن اماكن</string>
+    <string name="internet_error">لا يوجد اتصال بالانترنت</string>
+    <string name="something_wrong">حدث خطأ ما</string>
+</resources>
